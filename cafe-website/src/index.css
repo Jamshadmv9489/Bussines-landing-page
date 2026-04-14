@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-logo: "Playfair Display", serif;
+  --font-body: "Poppins", sans-serif;
+  --font-ui: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
