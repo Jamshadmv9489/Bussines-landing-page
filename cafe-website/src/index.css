@@ -1,0 +1,17 @@
+/* Import Tailwind CSS */
+@import "tailwindcss";
+
+/* Custom theme variables */
+@theme {
+  --font-logo: "Playfair Display", serif;
+  /* Font for logo/branding */
+  --font-body: "Poppins", sans-serif;
+  /* Main body text font */
+  --font-ui: "Poppins", sans-serif;
+  /* UI elements font */
+}
+
+/* Enable smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
