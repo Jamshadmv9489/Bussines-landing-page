@@ -48,8 +48,7 @@ export default function Navbar() {
                     {/* WhatsApp button (desktop only) */}
                     <div className="hidden md:block">
                         <a
-                            href="https://wa.me/919876543210?text=Hi%20I%20want%20to%20order%20from%20Brew%20Haven"
-                            target="_blank" // Open in new tab
+                            href="#"
                             rel="noopener noreferrer" // Security
                             className="flex items-center gap-2 bg-yellow-500 text-black px-5 py-2 rounded-full font-semibold hover:bg-yellow-400 hover:scale-105 transition"
                         >
