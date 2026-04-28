@@ -36,7 +36,7 @@ function MobileMenu({ isOpen, setIsOpen }) {
 
                     {/* WhatsApp CTA */}
                     <motion.a
-                        href="https://wa.me/918078979489?text=Hi%20I%20want%20to%20order%20from%20Brew%20Haven"
+                        href="https://wa.me/919876543210?text=Hi%20I%20want%20to%20order%20from%20Brew%20Haven"
                         target="_blank" // Open in new tab
                         rel="noopener noreferrer" // Security
                         onClick={() => setIsOpen(false)} // Close menu

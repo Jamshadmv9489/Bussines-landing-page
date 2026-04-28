@@ -21,7 +21,7 @@ export default function MenuCard({ item }) {
                     alt={item.name} // Accessibility text
                     className="w-full h-48 object-cover" // Image styling
                     whileHover={{ scale: 1.1 }} // Zoom image on hover
-                    transition={{ duration: 0.4 }} // Smooth animation
+                    transition={{ duration: 0.2 }} // Smooth animation
                     loading="lazy" // Lazy load for performance
                 />
             </div>
